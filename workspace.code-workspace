@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"explorer.confirmDragAndDrop": false,
+		"workbench.colorTheme": "Visual Studio Dark",
+		"files.associations": {
+			"stdio.h": "c",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
